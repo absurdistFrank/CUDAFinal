@@ -1,1 +1,1 @@
-cuda_add_executable(ZGEMM matrix_mult.cu)
+cuda_add_executable(ZGEMM-cuda matrix_mult.cu)
